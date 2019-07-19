@@ -21,9 +21,9 @@
   },
   "extra": {
     "laravel": {
-      "providers": {
+      "providers": [
         "DanielSann\\WebDasExcelCategorias\\WebDasExcelCategoriasServiceProvider"
-      }
+      ]
     }
   }
 }
